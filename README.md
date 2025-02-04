@@ -5,3 +5,4 @@ estado de proyecto finalizado
 para ejecutar le sistema, debes poner: 
 
 '''' npm install react '''
+juego secreto
